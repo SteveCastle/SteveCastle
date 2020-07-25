@@ -32,3 +32,9 @@ https://lowkeyviewer.com
 A react hook with the useState API but it's backed by simple cloud persistance.
 
 https://usecloudstate.dev/
+
+### Open Mob
+
+An open source platform for mobilizing political causes, and tracking the relationship between movements, commpanies, and political actors.
+
+https://github.com/SteveCastle/openmob
