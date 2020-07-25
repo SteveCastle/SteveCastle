@@ -35,6 +35,6 @@ https://usecloudstate.dev/
 
 ### Open Mob
 
-An open source platform for mobilizing political causes, and tracking the relationship between movements, commpanies, and political actors.
+An open source platform for mobilizing political change, and tracking the relationship between movements, companies, and political entities.
 
 https://github.com/SteveCastle/openmob
