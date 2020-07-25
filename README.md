@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi there 👋
+My name is Stephen, I'm a software developer. I've worked at Vegas.com building cool travel products and now at Pluralsight building amazing learning experiences. I also work on a lot of other projects in my spare time. Here are a few of them!
 
-<!--
-**SteveCastle/SteveCastle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Released Projects ⭐️
+
+### Code Workshop
+
+A meetup group I've been hosting for the last year, and the blog where I write about things I've learned.
+
+https://codeworkshop.dev
+
+
+### Notable Vegas
+
+A restaurant recommendation and tagging app for web and mobile.
+
+https://notable.vegas
+
+### LowKey Image Viewer
+
+A dead simple image viewer that maximizes the viewing space for images and obliterates clutter.
+
+https://lowkeyviewer.com
+
+
+## Work in Progress 🛠
+
+### useCloudState
+
+A react hook with the useState API but it's backed by simple cloud persistance.
+
+https://usecloudstate.dev/
