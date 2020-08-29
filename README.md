@@ -24,6 +24,11 @@ A dead simple image viewer that maximizes the viewing space for images and oblit
 
 https://lowkeyviewer.com
 
+### Pixel To CSS
+
+A command line tool to convert png pixel art to CSS box-shadow rules.
+
+https://www.npmjs.com/package/pixel-to-css
 
 ## Work in Progress 🛠
 
