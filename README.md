@@ -10,6 +10,7 @@ My name is Stephen, I'm a software developer. I've worked at Vegas.com building 
 A meetup group I've been hosting for the last year, and the blog where I write about things I've learned.
 
 https://codeworkshop.dev
+https://youtube.com/codeworkshops
 
 
 ### Notable Vegas
