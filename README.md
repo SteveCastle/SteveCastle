@@ -31,6 +31,16 @@ A personal photo journal site. Built with Gatsby and deployed on Netlify.
 
 https://punknaturalism.com/
 
+### Gallery Generator
+
+A Go web server to serve a performant HTML gallery provided a directory containing images.
+
+https://github.com/SteveCastle/gallery-generator
+
+### Shrike (A Go Command Manager and Web Extension)
+Shrike is a small web server that can create and manage parallel long running commands and a browser extension to submit commands. Features include a status update endpoint, job cancellation, and a command allow list. This project was created as part of a web scraping workflow.
+https://github.com/SteveCastle/shrike-extension
+
 ### Pixel To CSS
 
 A command line tool to convert png pixel art to CSS box-shadow rules.
