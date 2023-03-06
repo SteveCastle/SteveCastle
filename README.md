@@ -13,12 +13,6 @@ A meetup group I've been hosting for the last year, and the blog where I write a
 * https://youtube.com/codeworkshops
 
 
-### Notable Vegas
-
-A restaurant recommendation and tagging app for web and mobile.
-
-https://notable.vegas
-
 ### LowKey Image Viewer
 
 A dead simple image viewer that maximizes the viewing space for images and obliterates clutter.
