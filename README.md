@@ -5,6 +5,11 @@ My name is Stephen, I'm a software developer. I've worked at Vegas.com building 
 
 ## Released Projects ⭐️
 
+### Model Pad
+A notepad clone text editor with AI integration. Connect to popular AI models like Anthropic's Claude Haiku, or your own local Ollama server.
+
+* https://modelpad.app
+
 ### Code Workshop
 
 A meetup group I've been hosting for the last year, and the blog where I write about things I've learned.
