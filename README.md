@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Stephen, I'm a software developer. I've worked at Vegas.com building cool travel products and now at Pluralsight building amazing learning experiences. I also work on a lot of other projects in my spare time. Here are a few of them!
+My name is Stephen, I'm a software developer. I've worked at Vegas.com building cool travel products at Pluralsight building amazing learning experiences, and now at Hudl where we do awesome things for athletes and coaches. I also work on a lot of other projects in my spare time. Here are a few of them!
 
 
 
@@ -18,9 +18,9 @@ A meetup group I've been hosting for the last year, and the blog where I write a
 * https://youtube.com/codeworkshops
 
 
-### LowKey Image Viewer
+### LowKey Media Viewer
 
-A dead simple image viewer that maximizes the viewing space for images and obliterates clutter.
+A dead simple media viewer that maximizes the viewing space for images and obliterates clutter.
 
 https://lowkeyviewer.com
 
