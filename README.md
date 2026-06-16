@@ -26,7 +26,7 @@ A notepad clone text editor with AI integration. Connect to popular AI models li
 * https://modelpad.app
 
 ### Punk Naturalism
-A personal photo journal, now built with a custom static site generator I wrote from scratch in Go. It reads photos with YAML front matter and runs its own image pipeline — responsive `srcset` variants with a content-addressed cache for fast incremental rebuilds — then packs each gallery into justified, balanced rows using a dynamic-programming layout algorithm. Compiles to static HTML, deployed on Netlify.
+A personal photo journal, now built with a custom static site generator I wrote from scratch in Go. It reads photos with YAML front matter and runs its own image pipeline — responsive `srcset` variants with a content-addressed cache for fast incremental rebuilds — then packs each gallery into justified, balanced rows using a dynamic-programming layout algorithm. Compiles to static HTML, deployed on GitHub Pages.
 
 https://punknaturalism.com/
 
