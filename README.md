@@ -42,7 +42,7 @@ A command line tool to convert png pixel art to CSS box-shadow rules.
 https://www.npmjs.com/package/pixel-to-css
 
 ### slangfx
-A standalone Vulkan engine that applies libretro-format slang shaders (the multi-pass GPU shader format used by RetroArch) to any video file via ffmpeg. Includes a live tuner for previewing and adjusting shader parameters in real time, H.264 export, and a bundled library of original effects spanning color, edge detection, blur/bloom, motion-reactive, and glitch looks.
+A standalone Vulkan based program that applies libretro-format slang shaders (the multi-pass GPU shader format used by RetroArch) to any video file via ffmpeg. Includes a live tuner for previewing and adjusting shader parameters in real time, H.264 export, and a bundled library of original effects spanning color, edge detection, blur/bloom, motion-reactive, and glitch looks.
 
 https://github.com/SteveCastle/slangfx
 
