@@ -14,7 +14,7 @@ A meetup group I've hosted in the past, a youtube channel for coding tutorials, 
 ### LowKey Media Viewer
 A dead simple media viewer that maximizes the viewing space for images and obliterates clutter.
 
-https://lowkeyviewer.com
+* https://lowkeyviewer.com
 
 ### Lowkey Media Server
 A media server for managing long running media tasks like auto tagging, AI Face Recognition, Vector Embeddings, Image Processing.
