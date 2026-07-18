@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Stephen, I'm a software developer at Hudl where I build video and data analysis tools for coaches and athletes around the world.  I've also worked at Vegas.com building cool travel products at Pluralsight building amazing learning experiences, and I also work on a lot of other projects in my spare time. Here are a few of them!
+My name is Stephen, I'm a software developer at Hudl where I build video and data analysis tools for coaches and athletes around the world.  I've also worked at Pluralsight building amazing learning experiences, and Vegas.com building an e-commerce travel booking platform. I also work on a lot of other projects in my spare time. Here are a few of them!
 
 
 
