@@ -18,6 +18,7 @@ https://lowkeyviewer.com
 
 ### Lowkey Media Server
 A media server for managing long running media tasks like auto tagging, AI Face Recognition, Vector Embeddings, Image Processing.
+https://lowkeyviewer.com/server
 
 ### Model Pad
 A notepad clone text editor with AI integration. Connect to popular AI models like Anthropic's Claude Haiku, or your own local Ollama server.
