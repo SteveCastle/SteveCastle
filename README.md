@@ -16,9 +16,8 @@ A dead simple media viewer that maximizes the viewing space for images and oblit
 
 https://lowkeyviewer.com
 
-### Shrike (A Go Command Manager and Web Extension)
-Shrike is a small web server that can create and manage parallel long running commands and a browser extension to submit commands. Features include a status update endpoint, job cancellation, and a command allow list. This project was created as part of a web scraping workflow.
-[https://github.com/SteveCastle/shrike-extension](https://github.com/SteveCastle/shrike)
+### Lowkey Media Server
+A media server for managing long running media tasks like auto tagging, AI Face Recognition, Vector Embeddings, Image Processing.
 
 ### Model Pad
 A notepad clone text editor with AI integration. Connect to popular AI models like Anthropic's Claude Haiku, or your own local Ollama server.
