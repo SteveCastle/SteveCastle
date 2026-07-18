@@ -16,7 +16,7 @@ A dead simple media viewer that maximizes the viewing space for images and oblit
 
 * https://lowkeyviewer.com
 
-### Lowkey Media Server
+### LowKey Media Server
 A media server for managing long running media tasks like auto tagging, AI Face Recognition, Vector Embeddings, Image Processing.
 * https://lowkeyviewer.com/server
 
