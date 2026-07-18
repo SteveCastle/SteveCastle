@@ -19,7 +19,7 @@ A media server for managing long running media tasks like auto tagging, AI Face 
 * https://lowkeyviewer.com/server
 
 ### Model Pad
-A notepad clone text editor with AI integration. Connect to popular AI models like Anthropic's Claude Haiku, or your own local Ollama server.
+A structured document editor with AI integration. Manage documents, products, landing pages and more. Connect to popular AI models like Anthropic's Claude Haiku, or your own local LLM server to power agentic editing and application management.
 * https://modelpad.app
 
 ### Punk Naturalism
