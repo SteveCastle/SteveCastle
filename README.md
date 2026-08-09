@@ -18,6 +18,10 @@ A dead simple media viewer that maximizes the viewing space for images and oblit
 A media server for managing long running media tasks like auto tagging, AI Face Recognition, Vector Embeddings, Image Processing.
 * https://lowkeyviewer.com/server
 
+### Gaia: A Deep Time Geology Simulator
+A fully simulated geology sandbox game written with Godot. Models tectonic and surface geological processes to generate realistic emergent planets.
+* https://stevecastle.github.io/gaia-site/
+
 ### Model Pad
 A structured document editor with AI integration. Manage documents, products, landing pages and more. Connect to popular AI models like Anthropic's Claude Haiku, or your own local LLM server to power agentic editing and application management.
 * https://modelpad.app
